@@ -27,4 +27,7 @@ NAME='Charles Opuba'
 unset NAME
 echo $NAME
 
+## The above command does not print anything
+
+
 
