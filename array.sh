@@ -20,3 +20,5 @@ echo "${!os[@]}"
 echo "${#os[@]}"
 
 ## the above command prints the length
+
+os[3]='mac'
